@@ -1,0 +1,11 @@
+How to use NurseBot- A Robotic Nurse System in Mental Health Support
+
+1. Install and Use Jupyter Notebook
+
+2. Open NurseBot.ipynb with Jupyter Notebook
+
+3. Select "Run All" from a tab called "Cell"
+
+4. The chatbot system GUI will appear and simply type a message and press 'Send' button to the NurseBot and the chatbot will respond back. 
+
+(NOTE: The very first time the user send a message to the chatbot may take seconds for the chatbot to respond since it takes time to process the chatbot framework with loaded trained model and dataset.)

@@ -1,0 +1,11 @@
+This folder consists of overall project development including:
+
+1. 'NurseBot.ipynb' file is written for the user that wants to use the system
+
+2. 'Robotic_Nurse_System_In_Mental_Health_Support_Final_Year_Project.ipynb' file is written for overall project such as Data Exploration, Model Training, Model Evaluation, NLP Tasks, Chatbot Frameworks and GUI.
+
+3. The deep learning model has been trained as 'NurseBot_model' in the folder along with the pickle files such as 'words.pkl' & 'classes.pkl' contains documents for creating chatbot framework.
+
+4. 'Mental_Health_FAQ.csv' used in 'Robotic_Nurse_System_In_Mental_Health_Support_Final_Year_Project.ipynb' file for Data Exploration purpose.
+
+5. 'intents.json' contains the main dataset that is used to store and load predefined information for Chatbot Framework Architecture to the NurseBot system.
